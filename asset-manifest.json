@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.445da75a.js",
+    "main.js": "/static/js/main.43970f35.js",
     "static/media/cc_main.png": "/static/media/cc_main.433fced942234516e43a.png",
     "static/media/oreo_1.png": "/static/media/oreo_1.fc8cddc5b44de0fab52b.png",
     "static/media/fig_2.png": "/static/media/fig_2.3b5339864479a368429d.png",
@@ -20,6 +20,7 @@
     "static/media/cutify_1.png": "/static/media/cutify_1.09588783ccc5b336d264.png",
     "static/media/free_1.png": "/static/media/free_1.6ea52f17590af033ed82.png",
     "static/media/junwoolee_main.png": "/static/media/junwoolee_main.bea0793a1d854184c13b.png",
+    "static/media/montage_4.png": "/static/media/montage_4.99b43f8b4a6dbfdfa2c4.png",
     "static/media/montage_2.png": "/static/media/montage_2.18a8e01462fbf6dd4ad3.png",
     "static/media/mojitto_6.png": "/static/media/mojitto_6.ba4736a2cb2ccd730cf5.png",
     "static/media/montage_3.png": "/static/media/montage_3.3b57c38877a0667064e5.png",
@@ -37,9 +38,9 @@
     "static/media/oreo_main.png": "/static/media/oreo_main.74fe426052bf58d31093.png",
     "static/media/montage_main.png": "/static/media/montage_main.930f130bd8fc91728835.png",
     "index.html": "/index.html",
-    "main.445da75a.js.map": "/static/js/main.445da75a.js.map"
+    "main.43970f35.js.map": "/static/js/main.43970f35.js.map"
   },
   "entrypoints": [
-    "static/js/main.445da75a.js"
+    "static/js/main.43970f35.js"
   ]
 }
