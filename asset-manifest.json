@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.43970f35.js",
+    "main.js": "/static/js/main.fe80638d.js",
     "static/media/cc_main.png": "/static/media/cc_main.433fced942234516e43a.png",
     "static/media/oreo_1.png": "/static/media/oreo_1.fc8cddc5b44de0fab52b.png",
     "static/media/fig_2.png": "/static/media/fig_2.3b5339864479a368429d.png",
@@ -12,6 +12,7 @@
     "static/media/mojitto_2.png": "/static/media/mojitto_2.077527736110982e9098.png",
     "static/media/nbp_2.png": "/static/media/nbp_2.862490851e8c6d6729f3.png",
     "static/media/mojitto_3.png": "/static/media/mojitto_3.6fa1730b63a6cb2909c8.png",
+    "static/media/mojitto_9.png": "/static/media/mojitto_9.9a6a228c2a9d5cee4094.png",
     "static/media/mojitto_1.png": "/static/media/mojitto_1.b744d00f684c95f3dc18.png",
     "static/media/cutify_2.png": "/static/media/cutify_2.41f678568804c3fc0a19.png",
     "static/media/hufs_main.png": "/static/media/hufs_main.8daf3e0d71208824b9a9.png",
@@ -38,9 +39,9 @@
     "static/media/oreo_main.png": "/static/media/oreo_main.74fe426052bf58d31093.png",
     "static/media/montage_main.png": "/static/media/montage_main.930f130bd8fc91728835.png",
     "index.html": "/index.html",
-    "main.43970f35.js.map": "/static/js/main.43970f35.js.map"
+    "main.fe80638d.js.map": "/static/js/main.fe80638d.js.map"
   },
   "entrypoints": [
-    "static/js/main.43970f35.js"
+    "static/js/main.fe80638d.js"
   ]
 }
