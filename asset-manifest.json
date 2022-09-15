@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.43a21a11.js",
+    "main.js": "/static/js/main.3b18b255.js",
     "static/media/cc_main.png": "/static/media/cc_main.433fced942234516e43a.png",
     "static/media/oreo_1.png": "/static/media/oreo_1.fc8cddc5b44de0fab52b.png",
     "static/media/fig_2.png": "/static/media/fig_2.3b5339864479a368429d.png",
+    "static/media/amd_1.png": "/static/media/amd_1.c4e740c0764599595064.png",
+    "static/media/amd_main.png": "/static/media/amd_main.64ee7cb788b6ae1f6191.png",
     "static/media/fig_1.png": "/static/media/fig_1.0b6a0891e0ccbc33ace9.png",
     "static/media/montage_1.png": "/static/media/montage_1.a4a1ec584da96b473d62.png",
     "static/media/fig_main.png": "/static/media/fig_main.1818fa47dfe0adb72404.png",
@@ -39,9 +41,9 @@
     "static/media/oreo_main.png": "/static/media/oreo_main.74fe426052bf58d31093.png",
     "static/media/montage_main.png": "/static/media/montage_main.930f130bd8fc91728835.png",
     "index.html": "/index.html",
-    "main.43a21a11.js.map": "/static/js/main.43a21a11.js.map"
+    "main.3b18b255.js.map": "/static/js/main.3b18b255.js.map"
   },
   "entrypoints": [
-    "static/js/main.43a21a11.js"
+    "static/js/main.3b18b255.js"
   ]
 }
