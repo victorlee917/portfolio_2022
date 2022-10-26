@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.3b18b255.js",
+    "main.js": "/static/js/main.8ccaf527.js",
     "static/media/cc_main.png": "/static/media/cc_main.433fced942234516e43a.png",
     "static/media/oreo_1.png": "/static/media/oreo_1.fc8cddc5b44de0fab52b.png",
     "static/media/fig_2.png": "/static/media/fig_2.3b5339864479a368429d.png",
@@ -41,9 +41,9 @@
     "static/media/oreo_main.png": "/static/media/oreo_main.74fe426052bf58d31093.png",
     "static/media/montage_main.png": "/static/media/montage_main.930f130bd8fc91728835.png",
     "index.html": "/index.html",
-    "main.3b18b255.js.map": "/static/js/main.3b18b255.js.map"
+    "main.8ccaf527.js.map": "/static/js/main.8ccaf527.js.map"
   },
   "entrypoints": [
-    "static/js/main.3b18b255.js"
+    "static/js/main.8ccaf527.js"
   ]
 }
