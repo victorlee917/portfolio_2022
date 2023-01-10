@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.7830a22a.js",
+    "main.js": "/static/js/main.3c9b9970.js",
     "static/media/cc_main.png": "/static/media/cc_main.433fced942234516e43a.png",
     "static/media/oreo_1.png": "/static/media/oreo_1.fc8cddc5b44de0fab52b.png",
+    "static/media/ssd_1.png": "/static/media/ssd_1.1070dbe43b6a3d3d8f7e.png",
     "static/media/fig_2.png": "/static/media/fig_2.3b5339864479a368429d.png",
     "static/media/amd_1.png": "/static/media/amd_1.c4e740c0764599595064.png",
     "static/media/amd_main.png": "/static/media/amd_main.64ee7cb788b6ae1f6191.png",
@@ -40,11 +41,12 @@
     "static/media/portfolio_main.png": "/static/media/portfolio_main.0623a3b1e226a98acf47.png",
     "static/media/mojitto_main.png": "/static/media/mojitto_main.ef07fc11f004c2c3ef23.png",
     "static/media/oreo_main.png": "/static/media/oreo_main.74fe426052bf58d31093.png",
+    "static/media/ssd_main.png": "/static/media/ssd_main.011661ff2bcad453c642.png",
     "static/media/montage_main.png": "/static/media/montage_main.930f130bd8fc91728835.png",
     "index.html": "/index.html",
-    "main.7830a22a.js.map": "/static/js/main.7830a22a.js.map"
+    "main.3c9b9970.js.map": "/static/js/main.3c9b9970.js.map"
   },
   "entrypoints": [
-    "static/js/main.7830a22a.js"
+    "static/js/main.3c9b9970.js"
   ]
 }
