@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.3c9b9970.js",
+    "main.js": "/static/js/main.83873f29.js",
     "static/media/cc_main.png": "/static/media/cc_main.433fced942234516e43a.png",
     "static/media/oreo_1.png": "/static/media/oreo_1.fc8cddc5b44de0fab52b.png",
     "static/media/ssd_1.png": "/static/media/ssd_1.1070dbe43b6a3d3d8f7e.png",
@@ -15,6 +15,7 @@
     "static/media/mojitto_2.png": "/static/media/mojitto_2.077527736110982e9098.png",
     "static/media/nbp_2.png": "/static/media/nbp_2.862490851e8c6d6729f3.png",
     "static/media/mojitto_3.png": "/static/media/mojitto_3.6fa1730b63a6cb2909c8.png",
+    "static/media/hasun_main.png": "/static/media/hasun_main.5dbff692fa2e88145c3b.png",
     "static/media/mojitto_9.png": "/static/media/mojitto_9.9a6a228c2a9d5cee4094.png",
     "static/media/mojitto_1.png": "/static/media/mojitto_1.b744d00f684c95f3dc18.png",
     "static/media/cutify_2.png": "/static/media/cutify_2.41f678568804c3fc0a19.png",
@@ -44,9 +45,9 @@
     "static/media/ssd_main.png": "/static/media/ssd_main.011661ff2bcad453c642.png",
     "static/media/montage_main.png": "/static/media/montage_main.930f130bd8fc91728835.png",
     "index.html": "/index.html",
-    "main.3c9b9970.js.map": "/static/js/main.3c9b9970.js.map"
+    "main.83873f29.js.map": "/static/js/main.83873f29.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c9b9970.js"
+    "static/js/main.83873f29.js"
   ]
 }
